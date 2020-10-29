@@ -13,3 +13,29 @@ Entity-relationship diagram for the database for collecting information on the O
 ## [Project 3 - ML from scratch in python](https://github.com/vassylkorzh/ML-from-scratch-in-Python)
 KNN,Perceptron & "Single-layer neural network" for language classification
 
+## [Project 4 - ETL-t-Vachicle-Service](https://github.com/vassylkorzh/ETL-Project-Vachicle-Service)
+* There are 5 errors in the data. Find them
+
+The CustomerID field does not contain duplicate records.
+
+Suggest explanations how each of the errors could have occurred 
+and what you think is the best way to fix each one.
+
+You know that the total projected revenue for 2016 equals: $419,896,187.87. 
+You need the uploaded data to match this value (this means that every row is important).
+
+### First step 
+
+Using Visual Studio with ssdt-bi I automatically excluded  
+![](/img/VisualStudio.PNG)
+
+The condition to split the data into bad and good records was 
+
+`if len(column6)>0 & len(2016E)==0 it all bad raws due to there error `
+
+"CustomerID" | "CustomerSince"| "Vehicle" | "2014" | "2015" | "2016E" | "Column 6"|
+-------------|----------------|-----------|--------|--------|---------|-----------|
+  2738818    |  2014-01-01    |2009 Chevrolet Traverse|118|01|122.55|725.89
+ 
+ 1. 2738818;2014-01-01;2009 Chevrolet Traverse;118;01;122.55;725.89 - error due to 118;01; as for me here it should be 118.01
+ * [continuation](https://github.com/vassylkorzh/ETL-Project-Vachicle-Service)

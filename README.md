@@ -2,10 +2,16 @@
 My Data Science Portfolio
 ## [Project 1 - Titanic Data set](https://github.com/vassylkorzh/Project-Titanic-Data-Set)
 Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck
-![](https://github.com/vassylkorzh/Portfolio/main/img/Age%20%26%20Gender.png)
-![](https://github.com/vassylkorzh/Portfolio/main/img/Model%20results.png)
+
+![](https://github.com/vassylkorzh/Portfolio/blob/main/img/Age%20%26%20Gender.png)
+
+![](https://github.com/vassylkorzh/Portfolio/blob/main/img/Model%20results.png)
+
 ## [Project 2 - "Oscar" Data Base (Oracle & MS)](https://github.com/vassylkorzh/Project-SQL-Oscar-DB)
 Entity-relationship diagram for the database for collecting information on the Oscar Film Academy Award
-![](https://github.com/vassylkorzh/Portfolio/main/img/Oscar_model.png)
+
+![](https://github.com/vassylkorzh/Portfolio/blob/main/img/Oscar_model.png)
+
 ## [Project 3 - ML from scratch in python](https://github.com/vassylkorzh/ML-from-scratch-in-Python)
 KNN,Perceptron & "Single-layer neural network" for language classification
+

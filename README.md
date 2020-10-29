@@ -13,7 +13,7 @@ Entity-relationship diagram for the database for collecting information on the O
 ## [Project 3 - ML from scratch in python](https://github.com/vassylkorzh/ML-from-scratch-in-Python)
 KNN,Perceptron & "Single-layer neural network" for language classification
 
-## [Project 4 - ETL-t-Vachicle-Service](https://github.com/vassylkorzh/ETL-Project-Vachicle-Service)
+## [Project 4 - ETL-Vachicle-Service](https://github.com/vassylkorzh/ETL-Project-Vachicle-Service)
 * There are 5 errors in the data. Find them
 
 The CustomerID field does not contain duplicate records.

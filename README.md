@@ -41,7 +41,7 @@ The condition to split the data into bad and good records was
  * [continuation](https://github.com/vassylkorzh/ETL-Project-Vachicle-Service)
 
 ## [Project 5 - Customer_Segmentation](https://github.com/vassylkorzh/Customer_Segmentation)
-  ### Using Machine Learning to segment customers in Python&Tableau
+### Using Machine Learning to segment customers in Python&Tableau
   
    Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers allowing them to target the potential user base.
   
